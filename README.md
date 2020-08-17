@@ -9,11 +9,11 @@ pip3 install termcolor
 
 Controls:
 
-W -> UP
-S -> DOWN
-A -> LEFT
-D -> RIGHT
-X -> BOMB A DROP ;)
+W -> UP  
+S -> DOWN  
+A -> LEFT  
+D -> RIGHT  
+X -> DROP A BOMB  
 Q -> QUIT GAME
 
 How to Run The Game :
